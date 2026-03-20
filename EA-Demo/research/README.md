@@ -14,3 +14,4 @@ Examples:
 | Date | Topic | File |
 |------|-------|------|
 | 2026-03-20 | HeyGen — Video to Social Media Workflow | [2026-03-20_heygen-video-to-social.md](2026-03-20_heygen-video-to-social.md) |
+| 2026-03-20 | Video Editing Tools for HeyGen (Beginner) | [2026-03-20_video-editing-tools-for-heygen.md](2026-03-20_video-editing-tools-for-heygen.md) |
